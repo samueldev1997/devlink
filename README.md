@@ -2,7 +2,7 @@
 Linketree é um aplicativo onde eu posso adicionar e gerenciar links de redes sociais de forma personalizada, com autenticação segura utilizando Firebase.
 <br/>
 
-Deploy: https://devlink-nu.vercel.app/
+Deploy: https://meus-links--chi.vercel.app/
 
 ### 🔥 Funcionalidades Principais
 
@@ -22,8 +22,8 @@ Deploy: https://devlink-nu.vercel.app/
 
 ### 🔨 Instalação 
 
-1. Clone o repositório: git clone https://github.com/samueldev1997/devlink
-2. Navegue até o diretório do projeto: cd devlink
+1. Clone o repositório: git clone https://github.com/samueldev1997/meus-links
+2. Navegue até o diretório do projeto: cd meus-links
 3. Instale as dependências: npm install
 4. Inicie o servidor: npm run dev (ou use o comando adequado)
 5. O aplicativo estará disponível no localhost que aparecerá no seu painel, ex: http://localhost:3000
